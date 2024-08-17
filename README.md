@@ -17,7 +17,7 @@ Objective: Provide the CEO with a detailed view of monthly revenue trends for 20
 Visual: Line Chart & Table
 Insight: The highest revenue was generated in May, followed closely by November. 
 
-![Sol 1](https://github.com/Mansich0102/Retail_Visualizations-/blob/main/Screenshot%20(447).png?raw=true)
+![Sol 1](https://github.com/Mansich0102/Online_Retail_Visualizations-/blob/main/Screenshot%20(447).png?raw=true)
 
 
 2. Top 10 Revenue-Generating Countries (Excluding the UK)
@@ -26,7 +26,7 @@ Visual: Clustered Column Chart
 Insight: The top 10 countries by revenue are the France, Ireland (EIRE), Netherlands, Germany, Portugal, Australia, Spain, Switzerland, Belgium and
 Norway
 
-![ Sol 2](https://github.com/Mansich0102/Retail_Visualizations-/blob/main/Screenshot%20(448).png?raw=true)
+![ Sol 2](https://github.com/Mansich0102/Online_Retail_Visualizations-/blob/main/Screenshot%20(448).png?raw=true)
 
 
 3. Top 10 Customers by Revenue
@@ -34,11 +34,11 @@ Objective: Display the top 10 customers by revenue, arranged in descending order
 Visual: Line & Stacked Column Chart
 Insight: The top 10 customers by revenue are identified by Customer IDs: 16029, 15098, 14096, 17490, 14646, 18102, 14911, 12575, 17857, and 17450
 
-![ Sol 3](https://github.com/Mansich0102/Retail_Visualizations-/blob/main/Screenshot%20(449).png?raw=true)
+![ Sol 3](https://github.com/Mansich0102/Online_Retail_Visualizations-/blob/main/Screenshot%20(449).png?raw=true)
 
 
 4. Global Product Demand (Excluding the UK)
 Objective: Provide the CEO with a comprehensive view of product demand across all countries (excluding the UK) to support the company's expansion strategy.
 Visual: Map & Stacked Bar Chart
 Insight:The regions with the highest product demand, based on revenue, are France, Ireland (EIRE), Netherlands, Germany, and Portugal
-![ Sol 4](https://github.com/Mansich0102/Retail_Visualizations-/blob/main/Screenshot%20(450).png?raw=true)
+![ Sol 4](https://github.com/Mansich0102/Online_Retail_Visualizations-/blob/main/Screenshot%20(450).png?raw=true)
